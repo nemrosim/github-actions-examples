@@ -1,0 +1,22 @@
+{
+  "name": "github-actions-examples",
+  "version": "1.0.0",
+  "description": "\"GitHub Actions examples\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemrosim/github-actions-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemrosim/github-actions-examples/issues"
+  },
+  "homepage": "https://github.com/nemrosim/github-actions-examples#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
